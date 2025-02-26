@@ -2,6 +2,9 @@ const express = require("express");
 
 const app = express()
 
+const users = { username : "navaneeth" ,
+     age : 18  }
+
 app.get("/user", (req,res) => {
     const user = req.query;
 
