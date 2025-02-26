@@ -1,0 +1,16 @@
+{
+  "name": "backend-ca2",
+  "version": "1.0.0",
+  "description": "// Part 1: Project Setup\r // Install dependencies: npm init -y && npm install express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
